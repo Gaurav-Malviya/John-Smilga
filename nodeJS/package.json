@@ -1,0 +1,16 @@
+{
+  "name": "nodeJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
